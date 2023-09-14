@@ -24,3 +24,14 @@ Uygulamayı çalıştırmak için aşağıdaki adımları izleyin:
 python main.py
 
 Uygulama başladığında, bir sayı çizin ve "PREDICT" düğmesine tıklayarak tahmin sonucunu alın.
+
+Örnek Ekran Görüntüsü
+
+![Resim 1](https://github.com/FeyzullahTemel0/Number_Guess_Project/assets/109575132/d358c11f-8220-40f9-8b02-31a15882df8f)
+
+![Resim 2](https://github.com/FeyzullahTemel0/Number_Guess_Project/assets/109575132/5d398946-8fb9-4a5c-9707-12fef3cb794e)
+
+
+Geliştirme Ortamı
+
+Bu uygulama, PyQt5, NumPy ve Pillow gibi Python kütüphaneleri kullanılarak geliştirilmiştir. Anaconda veya başka bir sanal ortam kullanmanızı Öneririm.
