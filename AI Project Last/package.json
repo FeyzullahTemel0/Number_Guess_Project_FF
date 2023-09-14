@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "pandas": "^0.0.3",
+    "sklearn": "^0.3.0"
+  }
+}
