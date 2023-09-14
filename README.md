@@ -19,7 +19,8 @@ Uygulamayı çalıştırmak için aşağıdaki adımları izleyin:
 
     Uygulamayı çalıştırın:
 
-    bash
+
+   
 
 python main.py
 
