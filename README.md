@@ -17,12 +17,11 @@ Uygulamayı çalıştırmak için aşağıdaki adımları izleyin:
 
     Ana dizinde, eğitilmiş SVM modelini içeren bir SVM_Model.pkl dosyası bulunmalıdır. Modeli oluşturmak ve eğitmek için train_model.ipynb Jupyter defterini kullanabilirsiniz.
 
-    Uygulamayı çalıştırın:
-
+    Uygulamayı çalıştırın:  python AI_Number_Find.py
 
    
 
-python main.py
+
 
 Uygulama başladığında, bir sayı çizin ve "PREDICT" düğmesine tıklayarak tahmin sonucunu alın.
 
